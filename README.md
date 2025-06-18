@@ -1,3 +1,8 @@
+# Matter-LwM2M-Bridge
+
+This bridge is a extension of the original bridge example (original REAME below) extending the bridge functionality with a CoAP server and client as well as functions for bridging Matter and LwM2M devices.
+Do note that in its current state this source code is meant to understand the functionality of such a bridge, thus it's currently lacking instructions on how to build and run the bridge (as the setup process is quite challenging). Though these instructions will be released in the near future.
+
 # Matter ESP32 Bridge App Example
 
 Please
