@@ -1,0 +1,27 @@
+dependencies:
+  espressif/coap:
+    component_hash: b76d3b92424c55629509e60066d0d87cdd10f8f6272f1314f81ffd443de601b6
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 4.3.4~3
+  espressif/esp_encrypted_img:
+    component_hash: 1c34d5b0e70a3878e63fe2bedb00824bcf83c30d9b020029c38400d0d14fe182
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.1.0
+  espressif/esp_secure_cert_mgr:
+    component_hash: a20007d67e65a000670ab77e45d7554c943eb8dcb0abeada0a57dd9adac3a703
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.4.1
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.1
+manifest_hash: d2da3c6a8daa1777833b1c4cd42948d237b7c5190dc99c155a7b7e8d46648286
+target: esp32h2
+version: 1.0.0
